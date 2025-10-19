@@ -34,7 +34,25 @@ Jupyter Notebook: Provides an interactive environment for writing, running, and 
 - Loan amount increases with employment length.
   
 - Visual analysis reveals correlation between interest rate and loan status.
+
+5.Visual Insights
+a)Total Funded Amount by Month- https://github.com/Bhavesh1520/Bank-Loan-Analysis-Report/blob/main/Total%20Funded%20Amount%20by%20Month.png
+
+b)Total Amount Received by Month- https://github.com/Bhavesh1520/Bank-Loan-Analysis-Report/blob/main/Total%20Amount%20Received%20by%20Month.png
+
+c)Total Loan Application by Month- https://github.com/Bhavesh1520/Bank-Loan-Analysis-Report/blob/main/Total%20Loan%20Application%20by%20Month.png
+
+d)Total Funded Amount by State- https://github.com/Bhavesh1520/Bank-Loan-Analysis-Report/blob/main/Total%20Funded%20Amount%20by%20State.png
+
+e)Total Funded Amount by Term( in $ Millions)- https://github.com/Bhavesh1520/Bank-Loan-Analysis-Report/blob/main/Total%20Funded%20Amount%20by%20Term(%20in%20$%20Millions).png
+
+f)Total Funded Amount by Employment Length- https://github.com/Bhavesh1520/Bank-Loan-Analysis-Report/blob/main/Total%20Funded%20Amount%20by%20Employment%20Length.png
+
+g)Total Funded Amount by Loan Purpose- https://github.com/Bhavesh1520/Bank-Loan-Analysis-Report/blob/main/Total%20Funded%20Amount%20by%20Loan%20Purpose.png
+
+h)Total Funded Amount by Home Ownership- https://github.com/Bhavesh1520/Bank-Loan-Analysis-Report/blob/main/Total%20Funded%20Amount%20by%20Home%20Ownership.png
+
   
-5.Conclusion
+6.Conclusion
 
 This project provides meaningful insights into loan approval patterns and risk factors, helping banks enhance their lending strategies.
