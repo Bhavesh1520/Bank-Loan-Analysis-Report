@@ -34,3 +34,7 @@ Jupyter Notebook: Provides an interactive environment for writing, running, and 
 - Loan amount increases with employment length.
   
 - Visual analysis reveals correlation between interest rate and loan status.
+  
+5.Conclusion
+
+This project provides meaningful insights into loan approval patterns and risk factors, helping banks enhance their lending strategies.
